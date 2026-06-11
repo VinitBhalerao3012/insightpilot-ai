@@ -1,0 +1,6 @@
+.env
+test_groq.py
+venv/
+__pycache__/
+*.pyc
+.DS_Store

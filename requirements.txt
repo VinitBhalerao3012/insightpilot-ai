@@ -1,0 +1,7 @@
+streamlit
+pandas
+duckdb
+plotly
+google-generativeai
+fpdf2
+python-dotenv
