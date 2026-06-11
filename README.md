@@ -7,20 +7,20 @@ Powered by Groq/Llama 3.3 AI.
 ---
 ## 📸 Screenshots
 
-### Dataset Upload & Preview
-![Screenshot 1](assets/S1.png)
+### 🤖 AI Answering Business Questions
+![AI Insights](assets/S1.png)
 
-### Dataset Profile & KPI Summary
-![Screenshot 2](assets/S2.png)
+### 📁 Dataset Upload & Preview
+![Dataset Preview](assets/S2.png)
 
-### Data Quality Report
-![Screenshot 3](assets/S3.png)
+### ✅ Data Quality Report
+![Data Quality](assets/S3.png)
 
-### SQL Playground
-![Screenshot 4](assets/S4.png)
+### 📊 KPI Detection & Statistical Summary
+![KPI Summary](assets/S4.png)
 
-### AI Answering Business Questions
-![Screenshot 5](assets/S5.png)
+### 🔍 SQL Playground
+![SQL Playground](assets/S5.png)
 
 ---
 
